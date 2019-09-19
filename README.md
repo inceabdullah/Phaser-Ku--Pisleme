@@ -20,4 +20,4 @@ Phaser 3 ile ilk oyun denemesi
 Zaman hesabı yapılmadı, aracın merkezinin belli pozisyon aralıklarında gönderilen her bir pisliğin konumu taranıyor.
 
 
-###YouTube'de izle: [Link](https://youtu.be/WWmpkXHbVTU "Link")
+###YouTube'de izle:### [Link](https://youtu.be/WWmpkXHbVTU "Link")
