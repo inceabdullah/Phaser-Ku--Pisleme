@@ -2,7 +2,7 @@
 
 Phaser 3 ile ilk oyun denemesi
 
-# Editor.md
+
 
 ![](assets/ezgif_bird_framed.gif)
 
