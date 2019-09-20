@@ -20,4 +20,6 @@ Phaser 3 ile ilk oyun denemesi
 Zaman hesabı yapılmadı, aracın merkezinin belli pozisyon aralıklarında gönderilen her bir pisliğin konumu taranıyor.
 
 
+
+[##Play Store](https://play.google.com/store/apps/details?id=com.kus.pisleme.oyunu)
 ###[YouTube'de izle:   ](https://youtu.be/WWmpkXHbVTU "Link")
